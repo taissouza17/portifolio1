@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">projeto2</string>
+    <string name= "desc_app">
+        Em busca de novos desafios! Com uma sólida base em atendimento ao cliente, estou animada para explorar novas oportunidades em Desenvolvimento de software.
+Possuo conhecimento na área de virtualização em nuvem e marketing digital. Minhas habilidades chave incluem: escuta ativa, adaptabilidade, pensamento rápido, resolução de problemas, paciência, atitude positiva, comunicação clara e persuasiva.
+Estou empenhada em construir uma carreira enquanto contribuo para a igualdade de gênero no mundo da tecnologia. Estou aberta a conexões e colaborações para trilhar esse caminho.
+    </string>
+    <string name="tais">Tais Souza da Silva</string>
+
+</resources>
